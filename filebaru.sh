@@ -1,0 +1,1 @@
+echo "makan belum";
